@@ -15,6 +15,8 @@ Base Theme Template Chosen is:
 
 ### [Theme Template](https://demo.goodlayers.com/?theme=realsoccer)
 
+### [Team Information](Team.md)
+
 Things to Do by CSS Team:
 
 - [ ] Color Palette to be used by page
