@@ -7,6 +7,8 @@
 ### JS Team
 - Jerusha
 - Tikaram
+- Prakriti
+- Kripa
 
 ### CSS Team
 
