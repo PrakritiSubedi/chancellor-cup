@@ -1,4 +1,4 @@
-# chancellor-cup
+# Chancellor Cup (कुलपति कप - २०२३)
 
 Welcome to Chancellor cup
 
