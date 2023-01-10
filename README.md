@@ -4,12 +4,16 @@ Welcome to Chancellor cup
 
 It is hosted in
 
-[cup.gpu.edu.np](https://cup.gpu.edu.np)
+## [cup.gpu.edu.np](https://cup.gpu.edu.np)
 
 
 Subscribe in Discord Channel
 
-[Discord Channel](https://discord.gg/2UH46exm)
+## [Discord Channel](https://discord.gg/2UH46exm)
+
+Base Theme Template Chosen is:
+
+### [Theme Template](https://demo.goodlayers.com/?theme=realsoccer)
 
 Things to Do by CSS Team:
 
